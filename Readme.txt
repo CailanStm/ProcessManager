@@ -1,6 +1,5 @@
 CSC 360 Assignment 1
 Cailan St Martin
-V00826057
 Sept 2017
 
 To compile this code, simply run "make" within the code directory.
